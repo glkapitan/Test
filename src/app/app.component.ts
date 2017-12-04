@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'My first app';
   myTest="";
   dosomething(){
-    this.myTest="Test string";
+    this.myTest="Test uuu";
   }
 }
